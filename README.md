@@ -22,6 +22,6 @@
 
 * **Core**: It is a generic layer that allows tools to be used in other projects. 
 * **Entities**: The layer where we convert the tables in the database into objects.
-* **DataAccess**: Veritabanı işlemlerini yaptığımız katman.
+* **DataAccess**: The layer that can access to database.
 * **Business**: The layer where we develop our business rules.
 * **WebAPI**: Restful (Representational State Transfer) is the layer where we provide server-client communication with the HTTP protocol.
